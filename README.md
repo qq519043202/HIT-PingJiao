@@ -14,3 +14,4 @@
 ### 综合评价0.1
 
 - 并还没有随机。。。
+- `javascript:$('<script src="https://rawgit.com/qq519043202r/HIT-PingJiao/master/lib/select.js"></script>').appendTo('head')`
